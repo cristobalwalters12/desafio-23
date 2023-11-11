@@ -1,0 +1,23 @@
+.active {
+	color: red;
+	font-weight: bold;
+}
+.nav-link {
+    margin-right: 20px;
+}
+.navbar {
+    margin-bottom: 20px;
+    height: 100px;
+}
+.imagen {
+    width: 500px;
+    height: 500px;
+}
+.pikachu {
+    width: 500px;
+    height: 500px;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+}
